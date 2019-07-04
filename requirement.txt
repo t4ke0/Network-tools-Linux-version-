@@ -1,2 +1,2 @@
-pyqt5
+PyQt5
 scapy.all 
