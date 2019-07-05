@@ -12,7 +12,7 @@ Simple Network tool program for linux
 
 
 
-#Which Python version it need to work properly 
+# Which Python version it need to work properly 
 
 Python 3.6 work fine 
 
