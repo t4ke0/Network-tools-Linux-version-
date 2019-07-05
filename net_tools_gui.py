@@ -20,7 +20,7 @@ from scapy.all import *
 
 if os.getuid() != 0 : 
 	print('You are not Root')
-	pritn('Please run as root')
+	print('Please run as root')
 	sys.exit()
 else : 
 	pass
