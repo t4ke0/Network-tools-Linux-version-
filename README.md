@@ -14,7 +14,7 @@ Simple Network tool program for linux
 
 # Which Python version it need to work properly 
 
-Python 3.6 work fine 
+Python 3.6 works fine 
 
 
-but if u use python 3.7 it not gonna work 
+ 
